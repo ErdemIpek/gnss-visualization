@@ -6,7 +6,6 @@ This project processes GNSS (Global Navigation Satellite System) data from a veh
 - Load GNSS data from a CSV file.
 - Calculate GNSS module projection based on pitch and roll angles.
 - Visualize the vehicle's movement and GNSS projections in 2D.
-- Display the vehicle's pitch and roll in 3D for a more accurate representation of the vehicle's orientation.
 
 ## Project Structure
 
@@ -15,14 +14,14 @@ This project processes GNSS (Global Navigation Satellite System) data from a veh
   - Loading and validating data.
   - Calculating the GNSS projection.
   - Calculating the heading angle between points.
-  - Generating 3D and 2D visualizations of the vehicle's path.
+  - Generating 2D visualizations of the vehicle's path.
 
 ## Requirements
 - Python 3.x
 - `pandas`
 - `numpy`
 - `matplotlib`
-- `mpl_toolkits.mplot3d` (for 3D visualization)
+
 
 You can install the required libraries by running:
 
