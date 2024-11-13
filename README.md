@@ -15,7 +15,7 @@ This project processes GNSS (Global Navigation Satellite System) data from a veh
   - Calculating the GNSS projection.
   - Calculating the heading angle between points.
   - Generating 2D visualizations of the vehicle's path.
-
+- `plotter.py`:Handles the visualization of the vehicle's path, GNSS projections, and heading angles. It uses the Matplotlib library to create 2D  plots that help visualize the movement of the vehicle and the projections from the GNSS data.
 ## Requirements
 - Python 3.x
 - `pandas`
