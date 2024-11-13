@@ -1,6 +1,6 @@
 # Vehicle GNSS Data Visualization and Analysis
 
-This project processes GNSS (Global Navigation Satellite System) data from a vehicle and visualizes the vehicle's path along with its roll and pitch. It allows for the calculation of the GNSS module's projection onto the ground plane and the determination of the vehicle's heading angle between consecutive points.
+This project processes GNSS (Global Navigation Satellite System) data from a vehicle and visualizes the vehicle's path along with its roll and pitch for the 1500mm above gnss. It allows for the calculation of the GNSS module's projection onto the ground plane and the determination of the vehicle's heading angle between consecutive points.
 
 ## Features
 - Load GNSS data from a CSV file.
