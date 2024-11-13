@@ -23,4 +23,4 @@ def main(filePath):
         return
 
 if __name__ == "__main__":
-    main('data/gnssData.csv')
+    main('../data/gnssData.csv')
